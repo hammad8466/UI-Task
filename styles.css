@@ -1,0 +1,209 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,700,900|Roboto:300,400,500,700");
+* {
+    /* font-size: 16px; */
+    font-family: "Roboto", sans-serif;
+}
+
+
+/*  */
+
+
+
+
+.skills div {
+    max-width: 80%;
+}
+
+.skills div p {
+    color: gray;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.about-item i {
+    color: #766dff;
+}
+.user-profile {
+    margin-top: -50vh;
+    border-radius: 10%;
+    width: 85vw;
+}
+
+
+
+.list {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile-data p {
+    font-family: "Roboto", sans-serif;
+    max-width: 540px;
+    color: #777777;
+    margin-bottom: 40px;
+}
+
+.progress-bar {
+    background: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+}
+
+
+.profile-data .basic li {
+    position: relative;
+    padding-left: 40px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    color: #777777;
+}
+
+.profile-data .basic li i {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 25px;
+    color: #766dff;
+}
+
+.profile-data .social-media li {
+    line-height: 80px;
+    display: inline-block;
+    margin-right: 7px;
+    width: 40px;
+    background: #e8e8e8;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+}
+.about-item {
+    border-radius: 4%;
+}
+
+.offerings img {
+    max-width: 80px;
+}
+.header {
+    height: 70vh;
+    position: relative;
+    background-image: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+    color: white;
+}
+
+.offerings div {
+    background-color: white;
+    border-radius: 3%;
+    margin-left: 15px;
+    padding: 40px;
+}
+
+.offerings p {
+    max-width: 350px;
+}
+
+.offerings p {
+    max-width: 350px;
+}
+
+.offerings i {
+    color: gold;
+}
+
+.service-icon {
+    max-width: 80px;
+}
+
+.gallery-nav-item {
+    font-size: 13px;
+}
+
+.gallery-end button {
+    background: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+    color: white;
+    width: 200px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 25px;
+}
+
+.navbar .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.profile {
+    position: absolute;
+    border: 1px solid blueviolet;
+    margin-top: 50vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.letter-spacing {
+    letter-spacing: 5px;
+}
+
+.profile-data {
+    margin-top: 150px;
+}
+
+.footer-main-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5rem;
+    background-color: black;
+    color: white;
+}
+
+.footer-about {
+    flex: 2 1 0;
+    margin-top: 10px;
+    margin-left: 2rem;
+}
+
+.footer-newsletter {
+    flex: 1 1 0;
+    margin-top: 10px;
+    margin-left: 2rem;
+}
+
+.footer-social-medial {
+    flex: 1 1 0;
+    margin-top: 10px;
+    margin-left: 2rem;
+}
+
+.star-icons {
+    color: grey;
+    font-style: italic;
+}
+.cardview_testi{
+background-color:F9F9FF ;
+}
+
+.footer-brand {
+    color: blueviolet;
+}
+
+.footer-email-btn {
+    background: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+    color: white;
+    border: none;
+}
+
+.footer-input {
+    display: flex;
+    max-height: 30px;
+}
+
+.input {
+    height: 100%;
+}
+
+.footer-email {
+    border: 1px outset blueviolet;
+}
